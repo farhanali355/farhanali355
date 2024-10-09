@@ -1,16 +1,11 @@
-Assalam O Alaikum! 👋 I'm Farhan Ali
+<h1 align="left">Asalam O Alaikum 👋 I'm Farhan Ali </h1>
+##
+<h1>  ## 🌱 About Me </h1>
+<h3>I'm a passionate MERN stack developer focused on building full-stack web applications that provide seamless user experiences. With a strong foundation in JavaScript and a commitment to best practices, I enjoy turning ideas into functional software.
+</h3>
 
-I'm MERN Stack Developer
-
-## 🌱 About Me
-
-- 🔭 I’m currently working on [Your Project Name] - a [brief description of the project].
-- 🌱 I’m learning [Any new technology or concept you’re exploring].
-- 💬 Ask me about HTML, CSS, JavaScript, React, React Native, Node.js, Express.js, and MongoDB.
-- 📫 How to reach me: [Your Email or LinkedIn]
-
-## ⚡ Skills
-
+<h1> ## ⚡ Skills
+ <h1/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -29,10 +24,6 @@ I'm MERN Stack Developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
-- **Backend:**
-  - Node.js
-  - Express.js
-  - MongoDB
 
 ## 🛠️ Projects
 
