@@ -2,7 +2,6 @@
 
 ![Profile Views](https://img.shields.io/badge/Views-355,379-blue)
 
-<div> <img height="300" width="100%" src="https://cdn.prod.website-files.com/5f2b1efb0f881760ffdc5c96/63c12849a1c7e9df64c819fc_programming-languages-shutterstock-1680857539.webp">  </div>
 
 
 
@@ -17,6 +16,7 @@
 
 
 
+<div> <img height="300" width="100%" src="https://cdn.prod.website-files.com/5f2b1efb0f881760ffdc5c96/63c12849a1c7e9df64c819fc_programming-languages-shutterstock-1680857539.webp">  </div>
 
 
 
