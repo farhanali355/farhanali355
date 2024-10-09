@@ -7,7 +7,7 @@
 <h1>  ⚡ Skills
  <h1/>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" height="40" alt="Html logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -24,23 +24,7 @@
 </div>
 
 
-## 🛠️ Projects
 
-### [Project Name 1](link-to-your-project)
-- **Description:** Brief description of the project and what technologies you used.
-- **Tech Stack:** HTML, CSS, JavaScript, React, etc.
-  
-### [Project Name 2](link-to-your-project)
-- **Description:** Brief description of the project and what technologies you used.
-- **Tech Stack:** Node.js, Express.js, MongoDB, etc.
-
-### [Project Name 3](link-to-your-project)
-- **Description:** Brief description of the project and what technologies you used.
-- **Tech Stack:** React Native, etc.
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
 ## 🌍 Connect with me
 
