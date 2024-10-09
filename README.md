@@ -1,17 +1,14 @@
 <h1 align="left">Asalam O Alaikum 👋 I'm Farhan Ali </h1>
-##
-<h1>  ## 🌱 About Me </h1>
+
+<h1>  🌱 About Me </h1>
 <h3>I'm a passionate MERN stack developer focused on building full-stack web applications that provide seamless user experiences. With a strong foundation in JavaScript and a commitment to best practices, I enjoy turning ideas into functional software.
 </h3>
 
-<h1> ## ⚡ Skills
+<h1>  ⚡ Skills
  <h1/>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="Html logo"  />
   <img width="12" />
-<a href="https://example.com/image.jpg" target="_blank">
-    <img src="https://example.com/image.jpg" alt="Description of Image" />
-</a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
