@@ -1,4 +1,4 @@
-<h1 align="left">Asalam O Alaikum 👋 I'm Farhan Ali </h1>
+<h1 align="center">Asalam O Alaikum 👋 I'm Farhan Ali </h1>
 
 <h1>  🌱 About Me </h1>
 <h3>I'm a passionate MERN stack developer focused on building full-stack web applications that provide seamless user experiences. With a strong foundation in JavaScript and a commitment to best practices, I enjoy turning ideas into functional software.
